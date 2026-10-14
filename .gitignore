@@ -1,0 +1,3 @@
+*.exe
+/radar_*.csv
+/test/results/
